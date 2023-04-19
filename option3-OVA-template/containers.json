@@ -1,0 +1,9 @@
+[
+    {
+      "Description": "Ubuntu 22.02 OVA",
+      "Format": "ova",
+      "UserBucket": {
+          "S3Bucket": "vpakhai-custom-img-ova-template",
+          "S3Key": "Ubuntu_SRV.ova"
+      }
+  }]
